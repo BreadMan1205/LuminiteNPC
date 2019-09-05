@@ -1,0 +1,10 @@
+Luminite NPC adds a town NPC that sells luminite, lunar fragments and super healing potions.
+It doesn't have a proper sprite, sorry.
+
+You need at least 1 luminite bar in your inventory for it to spawn.
+
+Changelog:
+
+1.2: Added more SoA support (fragments of blight and hatred, post-Araghur only)
+
+1.1: Added Shadows of Abaddon support (quasar fragments)

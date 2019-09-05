@@ -1,0 +1,8 @@
+displayName = Luminite NPC
+author = Immortal Phoenix
+version = 1.2
+weakReferences = SacredTools
+includeSource = true
+hideCode = false
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, .vscode\*
+sortAfter = SacredTools

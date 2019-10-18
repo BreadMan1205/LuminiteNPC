@@ -5,6 +5,8 @@ You need at least 1 luminite bar in your inventory for it to spawn.
 
 Changelog:
 
+1.2.1: A small tweak in the code
+
 1.2: Added more SoA support (fragments of blight and hatred, post-Araghur only)
 
 1.1: Added Shadows of Abaddon support (quasar fragments)

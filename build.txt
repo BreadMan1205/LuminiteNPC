@@ -1,6 +1,6 @@
 displayName = Luminite NPC
-author = Bread Man
-version = 1.2.1
+author = Falcon
+version = 1.2.2
 weakReferences = SacredTools
 includeSource = true
 hideCode = false

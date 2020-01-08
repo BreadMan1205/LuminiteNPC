@@ -6,3 +6,4 @@ includeSource = true
 hideCode = false
 buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, .vscode\*
 sortAfter = SacredTools
+homepage = https://github.com/Falcon1205/LuminiteNPC

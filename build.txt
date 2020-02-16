@@ -1,6 +1,6 @@
-displayName = Luminite NPC by Falcon
+displayName = Luminite NPC
 author = Falcon
-version = 1.3.0.1
+version = 1.3.0.2
 weakReferences = SacredTools
 includeSource = true
 hideCode = false
